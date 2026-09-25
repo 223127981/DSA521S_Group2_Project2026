@@ -1,22 +1,20 @@
 # DSA521S Group Mini-Project 2026 — NUST Service Centre Simulation
 
-**Group Number:** `2`
+**Group Number:** 2
 
-**Submitted by: `Siyanda B. Ndhlovu` – `223127981`**
-
+**Submitted by: 223127981 – Siyanda B. Ndhlovu**
 
 **Group Members:**
 
 | Full Name | Student Number |
 |---|---|
-| `Siyanda B. Ndhlovu` | `223127981` |
-| `Andreas Niipare` | `223118958` |
-| `Amani Enkara` | `224072536` |
-| `Allan Makhosa Lunga` | `225061333` |
-| `Ndahafa Ngishoongele` | `223032344` |
+| Siyanda B. Ndhlovu | 223127981 |
+| Andreas Niipare | 223118958 |
+| Amani Enkara | 224072536 |
+| Allan Makhosa Lunga | 225061333 |
+| Ndahafa Ngishoongele | 223032344 |
 
-
-**GitHub Repository:** `https://github.com/______________________________`
+**GitHub Repository:** https://github.com/223127981/REPOSITORY-NAME-HERE
 
 ---
 
@@ -37,9 +35,22 @@ library collection classes and no built-in sorting methods were used anywhere.**
 
 ---
 
+## Folder structure
+
+The Java source files are in the **`Java codes`** subfolder. All commands below must be run
+from inside that folder:
+
+```
+cd "Java codes"
+```
+
+The quotation marks are required because the folder name contains a space.
+
+---
+
 ## How to compile
 
-From inside this folder:
+From inside the `Java codes` folder:
 
 **Command Prompt / macOS / Linux**
 
@@ -53,7 +64,13 @@ javac *.java
 javac (Get-ChildItem *.java)
 ```
 
-or list the files explicitly, or switch the terminal to Command Prompt.
+or list the files explicitly:
+
+```
+javac Student.java StudentQueue.java StudentLinkedList.java DailyStatistics.java SelectionSort.java InsertionSort.java MergeSort.java QuickSort.java SortingExperiment.java ServiceCentreSystem.java
+```
+
+or switch the terminal to Command Prompt.
 
 ---
 
@@ -80,6 +97,8 @@ tried immediately.
 
 ## File index
 
+All source files are in the `Java codes` folder.
+
 | File | Contents | Part |
 |---|---|---|
 | `Student.java` | Student record: number, name, service type, service time | shared |
@@ -99,15 +118,7 @@ tried immediately.
 | `SortingExperiment.java` | 20/50/100/500 timing experiment + almost-sorted test | C |
 | `ServiceCentreSystem.java` | Integrated menu system | D |
 
-### Documentation (`docs/` folder)
-
-| File | Contents |
-|---|---|
-| `A5_DataStructureJustification.md` | Why each structure suits its task |
-| `C_ExperimentResults_and_Answers.md` | Results tables and answers to the six Part C questions |
-| `E_Pseudocode.md` | Pseudocode for every required operation |
-| `F_Project_Report.md` | The project report |
-| `DSA521S_Group_Study_Guide_PartsA_B.md` | Study guide for group members |
+The project report is included in this submission as a PDF in the root folder.
 
 ---
 
