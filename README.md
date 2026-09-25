@@ -14,7 +14,7 @@
 | Allan Makhosa Lunga | 225061333 |
 | Ndahafa Ngishoongele | 223032344 |
 
-**GitHub Repository:** https://github.com/223127981/REPOSITORY-NAME-HERE
+**GitHub Repository:** https://github.com/223127981/DSA521S_Group2_Project2026
 
 ---
 
