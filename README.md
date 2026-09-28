@@ -1,7 +1,5 @@
 # DSA521S Group Mini-Project 2026 — NUST Service Centre Simulation
 
-**Group Number:** 2
-
 **Submitted by: 223127981 – Siyanda B. Ndhlovu**
 
 **Group Members:**
@@ -14,7 +12,7 @@
 | Allan Makhosa Lunga | 225061333 |
 | Ndahafa Ngishoongele | 223032344 |
 
-**GitHub Repository:** https://github.com/223127981/DSA521S_Group2_Project2026
+**GitHub Repository:** https://github.com/223127981/DSA521S_Project2026
 
 ---
 
